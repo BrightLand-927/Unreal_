@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tuto",
+			"Path": "/Users/BrightLand/Documents/Unreal Projects/Tuto/Source/Tuto.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TutoEditor",
+			"Path": "/Users/BrightLand/Documents/Unreal Projects/Tuto/Source/TutoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
