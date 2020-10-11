@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/BrightLand/Documents/Unreal Projects/FPS/Source/FPS/FPS.Build.cs",
+		"/Users/BrightLand/Documents/Unreal Projects/FPS/Source/FPS.Target.cs",
+		"/Users/BrightLand/Documents/Unreal Projects/FPS/Source/FPSEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
